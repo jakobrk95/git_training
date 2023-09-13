@@ -2,5 +2,5 @@ library(DBI)
 library(tidyverse) # Often used in data science
 library(RPostgres)
 
-name <- "my name is jakob"
-age <- 28
+name <- "lille per"
+age <- 44
