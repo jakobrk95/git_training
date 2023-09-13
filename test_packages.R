@@ -4,3 +4,8 @@ library(RPostgres)
 
 name <- "lille per"
 age <- 44
+
+for (x in 1:5) {
+  print(x)
+}
+
